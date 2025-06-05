@@ -1,0 +1,1 @@
+Shit python script using ytdlp and ffmpeg to download missing tv themes from my jellyfin server. I just have it to run manually since I dont download much tv shows, but I like having themes. Scans my mounted drive from my server and pulls from youtube. Hopefully Themerr works one day in the futire again.
